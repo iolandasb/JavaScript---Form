@@ -19,7 +19,7 @@ Creation of a form in HTML that allows the insertion and deletion of data, calcu
 
 •	Boas práticas: é uma boa prática colocar classes (“.class”) ou identificadores (“#id”) para alterar textos contidos em TAGs ao invés de chamar as TAGs especificamente, pois isso pode gerar erros.
 
-•	<script src="(nome da pasta)/(nome do arquivo JS)"></script>: esse comando é o que faz o link com a programação JS. É necessário indicar a pasta em que o arquivo está, bem como seu nome.
+•	"<script src="(nome da pasta)/(nome do arquivo JS)"></script>": esse comando é o que faz o link com a programação JS. É necessário indicar a pasta em que o arquivo está, bem como seu nome.
 
 •	ctrl+shift+J: mesmo que apertar “F12” no navegador. Abre o console.
 
