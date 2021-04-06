@@ -7,7 +7,7 @@ Creation of a form in HTML that allows the insertion and deletion of data, calcu
 
 •	document: é uma variável muito importante do JS. Ela contém o DOM, que é como o navegador enxerga o HTML utilizado por ele para renderizar a página. Se jogado no console (F12) do navegador, mostra o código HTML completo.
 
-•	Manipulação do DOM: quando se diz que com o JS se manipula o DOM, significa que o que o navegador renderizou é que foi manipulado. Então, ao trocar algum texto do DOM, o navegador imediatamente desenha novamente aquele texto, pois o DOM é o que o navegador usa para desenhar o site. Ademais, considerando que o que é manipulado é o DOM, quando por exemplo se troca um texto de um “<h1>” ou um estilo de um elemento, na verdade o que se está alterando é a representação em memória, o que faz com que o arquivo fonte que contêm seu HTML fique intacto.
+•	Manipulação do DOM: quando se diz que com o JS se manipula o DOM, significa que o que o navegador renderizou é que foi manipulado. Então, ao trocar algum texto do DOM, o navegador imediatamente desenha novamente aquele texto, pois o DOM é o que o navegador usa para desenhar o site. Ademais, considerando que o que é manipulado é o DOM, quando por exemplo se troca um texto de um “h1” ou um estilo de um elemento, na verdade o que se está alterando é a representação em memória, o que faz com que o arquivo fonte que contêm seu HTML fique intacto.
 
 •	document.querySelector(“”): busca algo no “document”. Dentro do “” deve ser inserido o que se quer achar. Importante destacar que o comando traz apenas UM elemento.
 
